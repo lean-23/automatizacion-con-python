@@ -8,4 +8,4 @@
 ### Este tipo de soluciones pequeñas son las que generan un gran impacto en la productividad operativa de cualquier equipo técnico. ¡Dime qué te parece el código!.
 ### ¿Qué otra funcionalidad le agregarías? Estoy pensando en añadirle una interfaz gráfica pronto
 
-![Grabación de pantalla.](https://github.com/lean-23/automatizacion-con-python/blob/main/Grabación de pantalla 2026-02-04 192713.mp4)
+![Grabación de pantalla.](https://github.com/lean-23/automatizacion-con-python/blob/main/Grabaci%C3%B3n%20de%20pantalla%202026-02-04%20192713.mp4)
