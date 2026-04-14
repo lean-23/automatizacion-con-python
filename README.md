@@ -8,4 +8,6 @@
 ### Este tipo de soluciones pequeñas son las que generan un gran impacto en la productividad operativa de cualquier equipo técnico. ¡Dime qué te parece el código!.
 ### ¿Qué otra funcionalidad le agregarías? Estoy pensando en añadirle una interfaz gráfica pronto
 
+![automatizacion.](https://github.com/lean-23/automatizacion-con-python/blob/main/automatizacion.mp4)
+
 
